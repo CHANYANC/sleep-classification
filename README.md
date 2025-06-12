@@ -45,7 +45,7 @@
 
 ## Flask 데모 영상
 
-![Uploading 시연영상.mp4 (1).gif…]()
+![Image](https://github.com/user-attachments/assets/5e16f3f8-5115-4f1e-8dc5-cb82c70f4f68)
 
 ---
 
